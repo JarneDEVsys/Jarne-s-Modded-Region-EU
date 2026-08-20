@@ -96,5 +96,9 @@ This is a **community/private server configuration** for Among Us. It is not an 
 
 ---
 
+## Donation
+
+All Donations will go to the costs of the server. [Link](https://ko-fi.com/jarnemm)
+
 **Jarne's Modded Region EU**
 Enjoy playing! 🚀
