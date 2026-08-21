@@ -4,11 +4,11 @@
         {
             "$type": "StaticHttpRegionInfo, Assembly-CSharp",
             "Name": "Jarne's Modded Region EU",
-            "PingServer": "region.modmanagere.eu",
+            "PingServer": "region.modmanagere.eu:22023",
             "Servers": [
                 {
                     "Name": "http-1",
-                    "Ip": "http://region.modmanagere.eu",
+                    "Ip": "http://region.modmanagere.eu:22023",
                     "Port": 22023,
                     "UseDtls": false
                 }
