@@ -1,1 +1,19 @@
-{"CurrentRegionIdx":3,"Regions":[{"$type":"StaticHttpRegionInfo, Assembly-CSharp","Name":"North America","PingServer":"matchmaker.among.us","Servers":[{"Name":"Http-1","Ip":"https://matchmaker.among.us","Port":443,"UseDtls":false,"Players":0,"ConnectionFailures":0}],"TargetServer":null,"TranslateName":289},{"$type":"StaticHttpRegionInfo, Assembly-CSharp","Name":"Europe","PingServer":"matchmaker-eu.among.us","Servers":[{"Name":"Http-1","Ip":"https://matchmaker-eu.among.us","Port":443,"UseDtls":false,"Players":0,"ConnectionFailures":0}],"TargetServer":null,"TranslateName":290},{"$type":"StaticHttpRegionInfo, Assembly-CSharp","Name":"Asia","PingServer":"matchmaker-as.among.us","Servers":[{"Name":"Http-1","Ip":"https://matchmaker-as.among.us","Port":443,"UseDtls":false,"Players":0,"ConnectionFailures":0}],"TargetServer":null,"TranslateName":291},{"$type":"StaticHttpRegionInfo, Assembly-CSharp","Name":"Jarne's Modded Region EU","PingServer":"185.228.81.170","Servers":[{"Name":"http-1","Ip":"http://185.228.81.170","Port":22023,"UseDtls":false,"Players":0,"ConnectionFailures":0}],"TargetServer":null,"TranslateName":1003}]}
+{
+    "CurrentRegionIdx": 3,
+    "Regions": [
+        {
+            "$type": "StaticHttpRegionInfo, Assembly-CSharp",
+            "Name": "Jarne's Modded Region EU",
+            "PingServer": "region.modmanagere.eu",
+            "Servers": [
+                {
+                    "Name": "http-1",
+                    "Ip": "http://region.modmanagere.eu",
+                    "Port": 22023,
+                    "UseDtls": false
+                }
+            ],
+            "TranslateName": 1003
+        }
+    ]
+}
