@@ -3,13 +3,13 @@
     "Regions": [
         {
             "$type": "StaticHttpRegionInfo, Assembly-CSharp",
-            "Name": "Jarne's Modded Region Europe",
-            "PingServer": "region.modmanagere.eu",
+            "Name": "Jarne's MEU",
+            "PingServer": "modmanagere.eu.amongusclub.cn",
             "Servers": [
                 {
                     "Name": "http-1",
-                    "Ip": "http://region.modmanagere.eu",
-                    "Port": 22023,
+                    "Ip": "https://modmanagere.eu.amongusclub.cn",
+                    "Port": 443,
                     "UseDtls": false
                 }
             ],
